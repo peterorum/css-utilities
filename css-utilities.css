@@ -167,30 +167,6 @@
     padding-bottom: 4rem;
   }
 
-  .p-auto {
-    padding: auto;
-  }
-  .pt-auto {
-    padding-top: auto;
-  }
-  .pb-auto {
-    padding-bottom: auto;
-  }
-  .pl-auto {
-    padding-left: auto;
-  }
-  .pr-auto {
-    padding-right: auto;
-  }
-  .px-auto {
-    padding-left: auto;
-    padding-right: auto;
-  }
-  .py-auto {
-    padding-top: auto;
-    padding-bottom: auto;
-  }
-
   .m-0 {
     margin: 0rem;
   }
@@ -964,30 +940,6 @@
   .sm\:py-6 {
     padding-top: 4rem;
     padding-bottom: 4rem;
-  }
-
-  .sm\:p-auto {
-    padding: auto;
-  }
-  .sm\:pt-auto {
-    padding-top: auto;
-  }
-  .sm\:pb-auto {
-    padding-bottom: auto;
-  }
-  .sm\:pl-auto {
-    padding-left: auto;
-  }
-  .sm\:pr-auto {
-    padding-right: auto;
-  }
-  .sm\:px-auto {
-    padding-left: auto;
-    padding-right: auto;
-  }
-  .sm\:py-auto {
-    padding-top: auto;
-    padding-bottom: auto;
   }
 
   .sm\:m-0 {
@@ -1765,30 +1717,6 @@
     padding-bottom: 4rem;
   }
 
-  .md\:p-auto {
-    padding: auto;
-  }
-  .md\:pt-auto {
-    padding-top: auto;
-  }
-  .md\:pb-auto {
-    padding-bottom: auto;
-  }
-  .md\:pl-auto {
-    padding-left: auto;
-  }
-  .md\:pr-auto {
-    padding-right: auto;
-  }
-  .md\:px-auto {
-    padding-left: auto;
-    padding-right: auto;
-  }
-  .md\:py-auto {
-    padding-top: auto;
-    padding-bottom: auto;
-  }
-
   .md\:m-0 {
     margin: 0rem;
   }
@@ -2564,30 +2492,6 @@
     padding-bottom: 4rem;
   }
 
-  .lg\:p-auto {
-    padding: auto;
-  }
-  .lg\:pt-auto {
-    padding-top: auto;
-  }
-  .lg\:pb-auto {
-    padding-bottom: auto;
-  }
-  .lg\:pl-auto {
-    padding-left: auto;
-  }
-  .lg\:pr-auto {
-    padding-right: auto;
-  }
-  .lg\:px-auto {
-    padding-left: auto;
-    padding-right: auto;
-  }
-  .lg\:py-auto {
-    padding-top: auto;
-    padding-bottom: auto;
-  }
-
   .lg\:m-0 {
     margin: 0rem;
   }
@@ -3361,30 +3265,6 @@
   .xl\:py-6 {
     padding-top: 4rem;
     padding-bottom: 4rem;
-  }
-
-  .xl\:p-auto {
-    padding: auto;
-  }
-  .xl\:pt-auto {
-    padding-top: auto;
-  }
-  .xl\:pb-auto {
-    padding-bottom: auto;
-  }
-  .xl\:pl-auto {
-    padding-left: auto;
-  }
-  .xl\:pr-auto {
-    padding-right: auto;
-  }
-  .xl\:px-auto {
-    padding-left: auto;
-    padding-right: auto;
-  }
-  .xl\:py-auto {
-    padding-top: auto;
-    padding-bottom: auto;
   }
 
   .xl\:m-0 {

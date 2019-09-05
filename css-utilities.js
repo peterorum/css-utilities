@@ -114,7 +114,8 @@ ${Object.keys(spacers)
 `
 
 const createSpacingAuto = (attribute, shortcut, breakpoint) =>
-  `
+  attribute !== 'padding'
+    ? `
     .${breakpoint}${shortcut}-auto{ ${attribute}: auto;}
     .${breakpoint}${shortcut}t-auto{ ${attribute}-top: auto;}
     .${breakpoint}${shortcut}b-auto{ ${attribute}-bottom: auto;}
@@ -123,6 +124,7 @@ const createSpacingAuto = (attribute, shortcut, breakpoint) =>
     .${breakpoint}${shortcut}x-auto{ ${attribute}-left: auto;${attribute}-right: auto;}
     .${breakpoint}${shortcut}y-auto{ ${attribute}-top: auto;${attribute}-bottom: auto;}
     `
+    : ''
 
 const createSpacing = (attribute, shortcut, breakpoint) => `
   ${createSpacingSigned(attribute, shortcut, breakpoint, 1, '')}
