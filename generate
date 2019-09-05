@@ -1,0 +1,3 @@
+#!/bin/sh
+
+node ./css-utilities.js | node_modules/.bin/prettier --stdin-filepath css-utilities.css > css-utilities.css
