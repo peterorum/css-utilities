@@ -1,5 +1,8 @@
 # Creates a css file with css utility classes
 
+## Installation
+Clone & run `npm install`.
+
 ## Source is css-utilities.js
 
 ## Run generate to create the css-utilities.css file.
