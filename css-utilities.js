@@ -414,4 +414,4 @@ const css = breakpoints.map(
     }`
 )
 
-process.stdout.write(css.toString())
+process.stdout.write(css.join(' '))

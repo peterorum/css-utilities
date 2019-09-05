@@ -772,7 +772,6 @@
     text-transform: uppercase;
   }
 }
-,
 @media (min-width: 576px) {
   .sm\:p-0 {
     padding: 0rem;
@@ -1547,7 +1546,6 @@
     text-transform: uppercase;
   }
 }
-,
 @media (min-width: 768px) {
   .md\:p-0 {
     padding: 0rem;
@@ -2322,7 +2320,6 @@
     text-transform: uppercase;
   }
 }
-,
 @media (min-width: 992px) {
   .lg\:p-0 {
     padding: 0rem;
@@ -3097,7 +3094,6 @@
     text-transform: uppercase;
   }
 }
-,
 @media (min-width: 1200px) {
   .xl\:p-0 {
     padding: 0rem;
