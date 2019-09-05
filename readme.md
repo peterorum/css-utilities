@@ -5,6 +5,8 @@ Clone & run `npm install`.
 
 ## Source is css-utilities.js
 
+Uses string templates as the code was original in a Styled Components component.
+
 ## Run generate to create the css-utilities.css file.
 
 Settings in css-utilties.js
