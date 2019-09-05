@@ -59,7 +59,7 @@ m-y: top & bottom
   * align-self-end 
 
   eg 
-  visible on desktop: d-none ld:d-flex
+  visible on desktop: d-none lg:d-flex
   visible on mobile only: sm:d-none
 
 * Some typography
