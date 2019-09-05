@@ -35,31 +35,31 @@ m-y: top & bottom
 
 * Display & flex
 
-  d-none 
-  d-flex 
-  d-block 
-  d-inline 
-  d-inline-block 
-  flex-row 
-  flex-column 
-  flex-row-reverse 
-  flex-column-reverse 
-  flex-wrap 
-  flex-nowrap 
-  justify-between 
-  justify-start 
-  justify-center 
-  justify-end 
-  align-content-start 
-  align-content-center 
-  align-content-end 
-  align-items-stretch 
-  align-items-start 
-  align-items-center 
-  align-items-end 
-  align-self-start 
-  align-self-center 
-  align-self-end 
+  * d-none 
+  * d-flex 
+  * d-block 
+  * d-inline 
+  * d-inline-block 
+  * flex-row 
+  * flex-column 
+  * flex-row-reverse 
+  * flex-column-reverse 
+  * flex-wrap 
+  * flex-nowrap 
+  * justify-between 
+  * justify-start 
+  * justify-center 
+  * justify-end 
+  * align-content-start 
+  * align-content-center 
+  * align-content-end 
+  * align-items-stretch 
+  * align-items-start 
+  * align-items-center 
+  * align-items-end 
+  * align-self-start 
+  * align-self-center 
+  * align-self-end 
 
   eg 
   visible on desktop: d-none ld:d-flex
